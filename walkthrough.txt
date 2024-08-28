@@ -1,0 +1,3 @@
+pip install "typer[all]"
+pip install PyInquirer
+pip install rich
